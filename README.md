@@ -1,5 +1,5 @@
 
-### Hi There! 👋  <a href = "mailto: othmanshahrouri@gmail.com"><img align="right" src="https://img.icons8.com/material-rounded/24/555555/new-post.png" width="32"/></a> <a href="https://twitter.com/othmansh0"><img align="right"  src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a><a href="https:www.linkedin.com/in/othmansh0"><img align="right" src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
+### Hi There! 👋  <a href = "mailto: othmanshahrouri@gmail.com"><img align="right" src="https://img.icons8.com/material-rounded/24/555555/new-post.png" width="32"/></a> <a href="https://twitter.com/othmansh0"><img align="right"  src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a><a href="https://www.linkedin.com/in/othmansh0/"><img align="right" src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 
 <br />
 
