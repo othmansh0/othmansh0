@@ -10,6 +10,5 @@
 - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use
 - 💬 Ask me about topics about Swift, cooking, body building,calisthenics, and anime
 - 📫 How to reach me: Email - othmanshahrouri@gmail.com | Twitter - @othmansh0
-- 😄 Pronouns: He/Him/His
 
 
