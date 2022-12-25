@@ -9,7 +9,6 @@
 - 👨‍💻 I’m looking to find my first position as an iOS developer
 - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use
 - 💬 Ask me about topics on Swift, cooking, body building,calisthenics, and anime
-- 🐱 Cat lover
 - 📫 How to reach me: Email - othmanshahrouri@gmail.com | Twitter - @othmansh0
 
 
