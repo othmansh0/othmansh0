@@ -5,7 +5,7 @@
 
 - 📚 I’m a Senior Computer Science student
 - 🔭 I’m currently working with two of my colleagues on a recipe organizer app named Recipe Jar as my graduation project
-- 🌱 I’m currently learning CoreData and SwiftUI
+- 🌱 I’m currently learning SwiftUI and practicing MVVM design pattern
 - 👨‍💻 I’m looking to find my first position as an iOS developer
 - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use
 - 💬 Ask me about topics on Swift, cooking, body building,calisthenics, and anime
