@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning SwiftUI while practicing MVVM design pattern
 - 👨‍💻 I’m looking to find my first position as an iOS developer
 - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use
-- 💬 Ask me about topics on Swift,UX, cooking, body building,calisthenics, and anime
+- 💬 Ask me about topics on Swift(UIKit),UX, cooking, body building,calisthenics, and anime
 - 📫 How to reach me: Email - othmanshahrouri@gmail.com | Twitter - @othmansh0
 
 
