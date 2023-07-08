@@ -3,11 +3,10 @@
 
 <br />
 
-- 📚 I’m a fresh graduate Computer Science student
-- 🔭 I'm currently working as an intern at Sitech.
-- 👨‍💻 I’m looking to find a full time position as an iOS developer
+- 📚 I’m a Computer science graduate
+- 🔭 I'm currently working as an iOS developer at Sitech.
 - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use
-- 💬 Ask me about topics on Swift(UIKit),SwiftUI,UX, cooking, body building,calisthenics, and anime
+- 💬 Ask me about topics on Swift(UIKit), SwiftUI,UX, cooking, body building,calisthenics, and anime
 - 📫 How to reach me: Email - othmanshahrouri@gmail.com | Twitter - @othmansh0
 
 
