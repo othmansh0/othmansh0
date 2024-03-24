@@ -4,7 +4,7 @@
 <br />
 
 - 📚 I’m a Computer science graduate
-- 🔭 I'm currently working as an iOS developer at Sitech.
+- 🔭 I'm currently working as an iOS Engineer at Sitech.
 - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use
 - 💬 Ask me about topics on SwiftUI,Swift(UIKit),UX, cooking, body building,calisthenics, and anime
 - 📫 How to reach me: Email - othmanshahrouri@gmail.com | Twitter - @othmansh0
