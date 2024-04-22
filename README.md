@@ -3,10 +3,15 @@
 
 <br />
 - 🔭 I'm currently working as an iOS Engineer at Sitech
+  
 - 💻 I am actively working on the launch of my side project, Recipe Jar
+  
 - 📚 I’m a Computer science graduate
+  
 - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use
+  
 - 💬 Ask me about topics on SwiftUI,Swift(UIKit),UX, cooking, body building,calisthenics, and anime
+  
 - 📫 How to reach me: Email - othmanshahrouri@gmail.com | Twitter - @othmansh0
 
 
