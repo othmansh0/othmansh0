@@ -15,6 +15,3 @@
 - 💬 Ask me about topics on SwiftUI,Swift(UIKit),UX, cooking, body building,calisthenics, and anime
   
 - 📫 How to reach me: Email - othmanshahrouri@gmail.com | Twitter - @othmansh0
-
-
-https://apps.apple.com/us/developer/othman-shahrouri/id1740930367
