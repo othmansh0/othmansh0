@@ -4,7 +4,7 @@
 
 <br />
 
-- 🔭 I'm currently working as an iOS Engineer at Sitech
+- 🔭 I'm currently working as an iOS Engineer at Almosafer
   
 - 💻 I am currently working on adding iPad support for my side project, Recipe Jar.
   
